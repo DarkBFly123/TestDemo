@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "MainDialog.py", line 491, in on_TXT2ResButton_clicked
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u20ac' in position 1312: illegal multibyte sequence
+Traceback (most recent call last):
+  File "MainDialog.py", line 491, in on_TXT2ResButton_clicked
+UnicodeEncodeError: 'gbk' codec can't encode character u'\u20ac' in position 1312: illegal multibyte sequence
